@@ -30,7 +30,6 @@ Open the CSV file in Excel.
 
 Save the file as an Excel Workbook format for enhanced functionality and compatibility.
 
-
 **2.) Check for Null Values**
 
 Inspect each column in the dataset to identify and document any null or missing values.
