@@ -2,7 +2,7 @@
 # Question
 "Given the raw data we have on employee records, including information such as hire dates, resignation dates, departments, job titles, education fields, and performance reviews, please analyze the data to determine the company's employee attrition rate over the past years.
 
-# Your Analysis should include:
+# Analysis should include:
 
 1) Overall Attrition Rate: Calculate the total attrition rate for the company.
 
