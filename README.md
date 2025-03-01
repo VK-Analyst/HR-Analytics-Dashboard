@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-# Question
+# Project
 "Given the raw data we have on employee records, including information such as hire dates, resignation dates, departments, job titles, education fields, and performance reviews, please analyze the data to determine the company's employee attrition rate over the past years.
 
 # Analysis should include:
